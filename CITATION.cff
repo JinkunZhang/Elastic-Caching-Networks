@@ -1,0 +1,7 @@
+cff-version: 1.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Zhang"
+  given-names: "Jinkun"
+title: "Elastic Cache Network Simulator"
+url: "https://github.com/JinkunZhang/Elastic-Caching-Networks"
